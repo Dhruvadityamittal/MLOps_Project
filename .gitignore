@@ -5,3 +5,4 @@ dags/*
 logs/*
 config
 =======
+/data
