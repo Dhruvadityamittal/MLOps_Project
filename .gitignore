@@ -1,9 +1,0 @@
-
-data/
-venv/*
-dags/s3_upload.py
-logs/*
-config
-
-/data
-s3_upload.py

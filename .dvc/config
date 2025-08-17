@@ -1,4 +1,0 @@
-[core]
-    remote = dvcstore
-['remote "dvcstore"']
-    url = s3://sentimental-analysis-bucket
