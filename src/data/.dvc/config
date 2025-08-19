@@ -1,5 +1,5 @@
 [core]
     remote = s3remote
 ['remote "s3remote"']
-    url = s3://dvc-data-storage
+    url = s3://dvc-data-storagee
     region = eu-central-1
