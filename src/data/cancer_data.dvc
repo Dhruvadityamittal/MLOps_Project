@@ -1,0 +1,14 @@
+md5: 413f8808ede02df9c63315d1bd3bcbf5
+frozen: true
+deps:
+- md5: 53e03695da0524f885f4684b015e9673.dir
+  size: 118200
+  nfiles: 2
+  hash: md5
+  path: s3://breast-cancer-data-storage/
+outs:
+- md5: 1a4679cbe3145f9bcc5d8e3df6240ba0.dir
+  size: 118200
+  nfiles: 2
+  hash: md5
+  path: cancer_data
